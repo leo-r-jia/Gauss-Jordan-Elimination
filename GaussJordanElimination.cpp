@@ -45,7 +45,7 @@ public:
 	friend MyMatrix inverse(MyMatrix& A);
 };
 
-// MyMAtrix constructor that takes matrix dimensions as arguments
+// MyMatrix constructor that takes matrix dimensions as arguments
 MyMatrix::MyMatrix(unsigned nrows, unsigned _ncols)
 {
 	unsigned nelements = nrows * _ncols;
