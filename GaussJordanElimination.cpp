@@ -1,9 +1,4 @@
-/*
-* Assignment 2
-* Author: Leo Jia
-* ID: 20115737
-*/
-#include <iostream> 
+include <iostream> 
 #include <fstream>
 #include <vector>  
 #include <string>
